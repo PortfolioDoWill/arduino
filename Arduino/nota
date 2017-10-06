@@ -1,0 +1,2 @@
+Permitir a porta usb para rodar o programa
+	sudo chown <usuário> /dev/ttyUSB0
